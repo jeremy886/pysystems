@@ -1,0 +1,6 @@
+black
+leo
+pyvim
+qtawesome
+xonsh
+youtube-dl
